@@ -4,14 +4,15 @@
 * You are allowed to open resources on internet, but not to use their code.
 * You must write all the code of this test.
 * This computer has Node.js, NPM and Sails.js installed already.
-* You can use the IDE of your preference, this computer has WebStorm installed already.
+* You can use the IDE of your preference, this computer has WebStorm, Sublime 3, and Visual Studio Code installed already.
 * You have two hours to finish all the requirements in the list below.
 * This test is using a framework called Sails.js, you can check the documentation here: https://sailsjs.com/get-started
 
 ## TEST INSTRUCTIONS:
 1) Working with Git:
 
-	1. Create a branch with your full name to commit and push your code.
+	1. Create a branch with your full name.
+	2. Commit and push your code at the end of the test.
 	
 2) Working with the Back-End:
 
