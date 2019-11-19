@@ -27,7 +27,7 @@
 	1. HTML and CSS:
 		- Create a view for the route you created. 
 		- It should display a box perfectly centered in the page with the product name inside (title).
-		- The box has to be 500x500 pixels and needs to be responsive.
+		- The box has to be 300x300 pixels and needs to be responsive.
 		- Create a pink border for the box and white background, also add some white shadow.
 		- The background of the page needs to have a radial gradient from pink to black.
 		- Create a button under the title that says: "Update title".
